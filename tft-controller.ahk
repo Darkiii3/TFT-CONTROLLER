@@ -28,8 +28,8 @@ OPTIONS_OR_LIST := 10
 
 ; Resolution of your screen
 ; Required. This makes it possible to automatically know the place of the boxes
-RESOLUTION_X := 1920    ; Default: 1920
-RESOLUTION_Y := 1080    ; Default: 1080
+RESOLUTION_X := 2560    ; Default: 1920
+RESOLUTION_Y := 1440    ; Default: 1080
 
 ; If your system has more than one joystick, increase this value to use a joystick
 ; I noticed when I'm in bluetooth that the value is 2 or else 1
